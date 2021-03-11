@@ -1,0 +1,38 @@
+#page {
+  width: 90%;
+  margin: 0 auto;
+}
+#content {
+  background-color: lightblue;
+  padding: 10px;
+}
+#left_sidebar {
+  width: 20%;
+  float: left;
+  margin-right: 3%;
+}
+h2 {
+  color: red;
+}
+#main {
+  width: 50%;
+  float: left;
+}
+#right_sidebar {
+  width: 20%;
+  float: right;
+}
+.img {
+  float: left;
+  padding: 10px;
+}
+.services {
+  border: 1px solid crimson;
+  width: 25%;
+  float: left;
+  margin-right: 3%;
+  text-align: center;
+}
+.clear {
+  clear: both;
+}
